@@ -1,0 +1,20 @@
+{
+  "name": "node-xm",
+  "version": "1.0.0",
+  "description": "node项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whwyz/node-xm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whwyz/node-xm/issues"
+  },
+  "homepage": "https://github.com/whwyz/node-xm#readme"
+}
